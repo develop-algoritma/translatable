@@ -54,6 +54,6 @@
             "providers": [
                 "Brackets\\Translatable\\TranslatableServiceProvider"
             ]
-        },
+        }
     }
 }
